@@ -1,4 +1,4 @@
-# Excel Interactive Dashboard – Orders, Returns & Users Analysis
+# Excel Interactive Sales Dashboard 
 
 This project is an **interactive Excel dashboard** built using **Power Query, Power Pivot, Pivot Tables**, and **Slicers**, based on data from `Orders`, `Returns`, and `Users` sheets. The goal is to analyze business performance and uncover key insights across geographies, shipping preferences, and customer behavior.
 
