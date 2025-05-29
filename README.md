@@ -1,4 +1,4 @@
-# 📊 Excel Interactive Dashboard – Orders, Returns & Users Analysis
+# Excel Interactive Dashboard – Orders, Returns & Users Analysis
 
 This project is an **interactive Excel dashboard** built using **Power Query, Power Pivot, Pivot Tables**, and **Slicers**, based on data from `Orders`, `Returns`, and `Users` sheets. The goal is to analyze business performance and uncover key insights across geographies, shipping preferences, and customer behavior.
 
@@ -32,7 +32,7 @@ Using Excel's BI capabilities, I:
 
 ## 📸 Dashboard Screenshot
 
-
+![image alt](https://github.com/Rajkumar-dataanalyst/Excel_Dashboard/blob/909e16465eb3a5703febc9f662fffce3a4f376ad/dashboard%20Image.png)
 
 ## 📈 Key Insights & KPIs
 
@@ -75,15 +75,3 @@ Using Excel's BI capabilities, I:
 - The dashboard enables quick filtering and deep dives with slicers
 
 ---
-
-## 👨‍💼 About Me
-
-I'm **Raj Kumar**, a data enthusiast skilled in Excel, Power BI, Tableau, SQL, and Python.  
-I love transforming raw data into impactful dashboards that drive decision-making.
-
-📫 [LinkedIn](https://linkedin.com/in/your-profile) | 🌐 [Portfolio Website](https://your-portfolio.com)
-
----
-
-## 📁 Project Structure
-
